@@ -1,0 +1,8 @@
+kind: Namespace
+apiVersion: v1
+
+metadata:
+  name: bankapp-ns
+  labels:
+    environment: development
+    team: backend
